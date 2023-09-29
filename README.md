@@ -1,4 +1,4 @@
-# coding-armadillo-logo
+# logo
 
 The Coding Armadillo logo
 
